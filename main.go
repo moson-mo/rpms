@@ -8,7 +8,7 @@ import (
 )
 
 var acao string
-var version = "1.0.0"
+var version = "1.0.1"
 
 func main() {
 	// we need root permissions
