@@ -10,21 +10,20 @@ Installation instructions can be found there...
 
 ## Purpose
 
-Purpose is to make power/performance metrics available in an easy manner.
-Metrics can be queried via simple HTTP calls.
-You can ,for example, use it in the famous conky system monitoring tool by doing some curl calls...
-Or create your own web application with some graphs.
+Purpose is to make power/performance metrics available in an easy manner.</br>
+Metrics can be queried via simple HTTP calls.</br>
+You can ,for example, use it in the famous conky system monitoring tool by doing some curl calls...</br>
+Or create your own web application with some graphs.</br></br>
 
-I will provide some examples and most probably also a ui application with graphs, etc.
+I will provide some examples and most probably also a ui application with graphs, etc.</br>
 
 ## How to install
 
 #### Manual
 
-Binaries are available from the [releases](https://github.com/moson-mo/rpms/releases) page.
-If you have go installed on your machine, you can install with `go install github.com/moson-mo/rpms`
-Once installed you can create a systemd service to run system-startup (see ).
-</br>
+Binaries are available from the [releases](https://github.com/moson-mo/rpms/releases) page.</br>
+If you have go installed on your machine, you can install with `go install github.com/moson-mo/rpms`</br>
+Once installed you can create a systemd service to run system-startup (see [rpms.service](https://github.com/moson-mo/rpms/blob/main/assets/rpms.service)).</br>
 
 #### AUR package
 
