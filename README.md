@@ -19,9 +19,18 @@ I will provide some examples and most probably also a ui application with graphs
 
 ## How to install
 
+#### Manual
+
 Binaries are available from the [releases](https://github.com/moson-mo/rpms/releases) page.
 If you have go installed on your machine, you can install with `go install github.com/moson-mo/rpms`
-Once installed you can create a systemd service to run system-startup.
+Once installed you can create a systemd service to run system-startup (see ).
+</br>
+
+#### AUR package
+
+If you're using Arch or an Arch-based Distribution, there is an [AUR package](https://aur.archlinux.org/packages/rpms/) available.</br>
+Use your favorite AUR helper to install.</br>
+F.e.: `yay -S rpms`
 </br>
 
 ## How to build
