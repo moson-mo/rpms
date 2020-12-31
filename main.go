@@ -40,7 +40,7 @@ func main() {
 				fmt.Println("Error getting PM table:")
 				fmt.Println(err)
 			}
-			time.Sleep(*interval * time.Millisecond)
+			time.Sleep(*interval)
 		}
 
 	}()
