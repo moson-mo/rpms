@@ -3,7 +3,7 @@ Description=Renoir power metric server
 
 [Service]
 Type=simple
-ExecStart=/home/moson/go/bin/rpms
+ExecStart=/usr/bin/rpms
 
 [Install]
 WantedBy=multi-user.target
