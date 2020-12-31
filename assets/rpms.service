@@ -1,0 +1,9 @@
+[Unit]
+Description=Renoir power metric server
+
+[Service]
+Type=simple
+ExecStart=/home/moson/go/bin/rpms
+
+[Install]
+WantedBy=multi-user.target
