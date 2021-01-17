@@ -15,7 +15,8 @@ Metrics can be queried via simple HTTP calls.</br>
 You can ,for example, use it in the famous conky system monitoring tool by doing some curl calls...</br>
 Or create your own web application with some graphs.</br></br>
 
-I will provide some examples and most probably also a ui application with graphs, etc.</br>
+A simple example of a client application can be found here: [rpmui](https://github.com/moson-mo/rpmui)</br>
+Also see [Examples](https://github.com/moson-mo/rpms/blob/main/EXAMPLES.md) for some other examples (cony, terminal, etc.).
 
 ## How to install
 

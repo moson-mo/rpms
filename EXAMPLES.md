@@ -41,3 +41,8 @@ Then we use cut to trim the value since we only want to see the first 4 characte
 (Note: `%20` is the urlencoded value for a whitespace).
 
 ![conky example](https://github.com/moson-mo/rpms/raw/main/assets/rpms_conky.png?inline=true)
+</br>
+
+### Simple client app
+
+See [rpmui](https://github.com/moson-mo/rpmui)
